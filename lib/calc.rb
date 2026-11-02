@@ -8,4 +8,8 @@ module Calc
   def multiply(a, b)
     a * b
   end
+
+  def divide(a, b)
+    a / b
+  end
 end
